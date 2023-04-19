@@ -22,7 +22,7 @@ const Sidebar = () => {
   const boards: BoardItem[] = [
     { id: 1, title: "Help Desk", path: "/helpdesk", icon: ArrowRightIcon },
     { id: 2, title: "Notifications", path: "/another-page", icon: BellIcon },
-    { id: 3, title: "Messages", path: "/third-page", icon: ChatIcon },
+    { id: 3, title: "Messages", path: "/messanger", icon: ChatIcon },
     { id: 4, title: "Bookmarks", path: "/third-page", icon: StarIcon },
     { id: 5, title: "Lists", path: "/third-page", icon: StarIcon },
     {
